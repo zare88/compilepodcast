@@ -9,13 +9,16 @@ Tue, 12 Jul 2022 16:30:00 GMT
 امیدوارم خوشتون بیاد
 
 
+
+Links : 
 14 Habits of Highly Productive Developers
 https://14habits.com/
 
+https://en.wikipedia.org/wiki/Three-point_estimation
+https://www.youtube.com/watch?v=sW9npZVpiMI
+
 
 Intro and Outro music:
-
 Hopp Dubb
 by Ketsa
-
 https://freemusicarchive.org/music/Ketsa/#contact-artist
