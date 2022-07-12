@@ -30,6 +30,47 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://raw.githubusercontent.com/zare88/compilepodcast/main/cover.jpg"/>
 		<item>
+			<title><![CDATA[۱۴ عادت توسعه دهندگان با بهره وری بالا]]></title>
+			<description><![CDATA[در این اپیزود من و محمد اهتمام در مورد مسائل مختلفی بحث کردیم ولی تمرکز اصلی مون روی یه کتاب بود که راجع به عادات برنامه نویسان با بهره وری بالا بود، این که چه کار کنیم که بتونیم بهتر و کاراتر کار کنیم.. 
+محمد یه برنامه نویس خوبه و مدت زیادیه که ما با هم دوست هستیم و توی این قسمت شوخی های زیادی کردیم و گاهی اوقات بحث هامون به موضوعات دیگه ای هم وصل می شد
+
+امیدوارم خوشتون بیاد
+
+Links : 
+14 Habits of Highly Productive Developers
+https://14habits.com/
+
+https://en.wikipedia.org/wiki/Three-point_estimation
+https://www.youtube.com/watch?v=sW9npZVpiMI
+
+
+Intro and Outro music:
+Hopp Dubb
+by Ketsa
+https://freemusicarchive.org/music/Ketsa/#contact-artist
+]]></description>
+			<link>https://zare88.github.io/compilepodcast</link>
+			<guid isPermaLink="false">2c0a93ad-161e-4172-ae5f-65016a81e7d0</guid>
+			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
+			<pubDate>Tue, 12 Jul 2022 19:30:00 GMT</pubDate>
+			<enclosure url="https://raw.githubusercontent.com/zare88/compilepodcast/main/episodes/31%20-%2014-habits-of-highly-productive-developers/content.mp3" length="97493054" type="audio/mpeg"/>
+			<itunes:summary>این یک اپیزود مشترک با پدرام کشاورزی از پادکست اجایل گپ است که سعی کردیم راجع به موضوع تست در اجایل صحبت کنیم. پدرام خودش مربی اجایل و اسکرام مستره و توی پادکستش اطلاعات خوبی در مورد توسعه چابک میتونید پیدا کنید. بهتون پیشنهاد میکنم حتما به پادکستش سر بزنید. اما توی این اپیزود یک کتاب را به شکل اجمالی بررسی کردیم، کتابی که موضوعش در رابطه با همین عنوان این اپیزود است. امیدوارم که خوشتون بیاد
+
+تدوین: پدرام کشاورزی 
+طراح پوستر: سید محمد حسین بطحایی
+
+لینک پادکست اجایل گپ
+لینک کتاب
+لینک آموزش ویدیویی
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8124</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/zare88/compilepodcast/main/episodes/31%20-%2014-habits-of-highly-productive-developers/cover.jpg"/>
+			<itunes:season>5</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[نگاه اجمالی به کتاب تست چابک (Agile Testing)]]></title>
 			<description><![CDATA[این یک اپیزود مشترک با پدرام کشاورزی از پادکست اجایل گپ است که سعی کردیم راجع به موضوع تست در اجایل صحبت کنیم. پدرام خودش مربی اجایل و اسکرام مستره و توی پادکستش اطلاعات خوبی در مورد توسعه چابک میتونید پیدا کنید. بهتون پیشنهاد میکنم حتما به پادکستش سر بزنید. اما توی این اپیزود یک کتاب را به شکل اجمالی بررسی کردیم، کتابی که موضوعش در رابطه با همین عنوان این اپیزود است. امیدوارم که خوشتون بیاد
 
